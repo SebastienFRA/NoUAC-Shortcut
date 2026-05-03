@@ -1,5 +1,7 @@
 # NoUAC Shortcut
 
+![Screenshot](https://github.com/SebastienFRA/NoUAC-Shortcut/blob/main/Images/NoUAC%20Shortcut.png?raw=true)
+
 ## 🇫🇷 Français
 
 **NoUAC Shortcut** est un petit utilitaire Windows qui permet de lancer n'importe quel programme nécessitant des droits administrateur **sans que la fenêtre de confirmation UAC n'apparaisse**, tout en gardant l'UAC actif pour le reste du système.
